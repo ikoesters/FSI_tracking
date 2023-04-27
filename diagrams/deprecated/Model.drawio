@@ -1,0 +1,22 @@
+<mxfile host="Electron" modified="2023-04-05T12:17:46.742Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="1uaU9WlOQZRZda40KezS" version="21.1.2" type="device">
+  <diagram name="Page-1" id="sm2U4ZQPKXl9JLiiWQKx">
+    <mxGraphModel dx="562" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uzhLlgMpRvEke2GmTLo1-1" value="filter_and_interp_midlines" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="230" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzhLlgMpRvEke2GmTLo1-2" value="_filter_midlines" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzhLlgMpRvEke2GmTLo1-3" value="_interpolate_midlines_timewise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="350" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzhLlgMpRvEke2GmTLo1-4" value="ut.butter_lowpass_filter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="460" width="166" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
